@@ -1,0 +1,643 @@
+[
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a123",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 1.5,
+    "soldCount": 120,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Green",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার সবুজ"
+    },
+    "code": "PSC-GREEN",
+    "sku": "SKU-PSC-GREEN",
+    "short_description": {
+      "en": "Soft and comfortable green pillow chair",
+      "bn": "নরম এবং আরামদায়ক সবুজ পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in green offers superior comfort and style for your living space.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি আপনার লিভিং স্পেসের জন্য অতুলনীয় আরাম এবং স্টাইল প্রদান করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-GREEN",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Green"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 299,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 249,
+    "quantity": 100,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Soft Fabric", "Ergonomic Design"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a124",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.0,
+    "soldCount": 95,
+   
+    "name": {
+      "en": "Luxe Modern Design Pillow Chair White",
+      "bn": "লাক্স মডার্ন ডিজাইন পিলো চেয়ার সাদা"
+    },
+    "code": "LMDPC-WHITE",
+    "sku": "SKU-LMDPC-WHITE",
+    "short_description": {
+      "en": "Modern white pillow chair with luxe design",
+      "bn": "আধুনিক সাদা পিলো চেয়ার লাক্স ডিজাইন সহ"
+    },
+    "description": {
+      "en": "A luxe modern design pillow chair in white, perfect for contemporary interiors.",
+      "bn": "লাক্স মডার্ন ডিজাইন পিলো চেয়ার সাদা, আধুনিক ঘরের জন্য উপযুক্ত।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-LMDPC-WHITE",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["White"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 299,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 249,
+    "quantity": 80,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Modern Design", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a125",
+
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.2,
+    "soldCount": 80,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Dark Green",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার গাঢ় সবুজ"
+    },
+    "code": "PSC-DARKGREEN",
+    "sku": "SKU-PSC-DARKGREEN",
+    "short_description": {
+      "en": "Soft and comfortable dark green pillow chair",
+      "bn": "নরম এবং আরামদায়ক গাঢ় সবুজ পিলো চেয়ার"
+    },
+    "description": {
+      "en": "Premium soft pillow chair in dark green for a stylish and cozy touch.",
+      "bn": "স্টাইলিশ এবং আরামদায়ক গাঢ় সবুজ প্রিমিয়াম সফট পিলো চেয়ার।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-DARKGREEN",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Dark Green"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 299,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 249,
+    "quantity": 70,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Soft Fabric", "Premium Comfort"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a126",
+
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.3,
+    "soldCount": 70,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Gray",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার ধূসর"
+    },
+    "code": "PSC-GRAY",
+    "sku": "SKU-PSC-GRAY",
+    "short_description": {
+      "en": "Soft and comfortable gray pillow chair",
+      "bn": "নরম এবং আরামদায়ক ধূসর পিলো চেয়ার"
+    },
+    "description": {
+      "en": "A premium soft pillow chair in gray, perfect for any modern home.",
+      "bn": "আধুনিক ঘরের জন্য উপযুক্ত ধূসর প্রিমিয়াম সফট পিলো চেয়ার।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-GRAY",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Gray"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 299,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 249,
+    "quantity": 60,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Soft Fabric", "Modern Look"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a127",
+    
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.1,
+    "soldCount": 60,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Beige",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার বেজ"
+    },
+    "code": "PSC-BEIGE",
+    "sku": "SKU-PSC-BEIGE",
+    "short_description": {
+      "en": "Soft and comfortable beige pillow chair",
+      "bn": "নরম এবং আরামদায়ক বেজ পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in beige adds a touch of elegance to your space.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি আপনার স্পেসে একটি স্পর্শ যোগ করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-BEIGE",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Beige"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 299,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 249,
+    "quantity": 50,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Soft Fabric", "Elegant Design"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a128",
+   
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.4,
+    "soldCount": 50,
+   
+    "name": {
+      "en": "Luxe Modern Design Pillow Chair Blue",
+      "bn": "লাক্স মডার্ন ডিজাইন পিলো চেয়ার নীল"
+    },
+    "code": "LMDPC-BLUE",
+    "sku": "SKU-LMDPC-BLUE",
+    "short_description": {
+      "en": "Modern blue pillow chair with luxe design",
+      "bn": "আধুনিক নীল পিলো চেয়ার লাক্স ডিজাইন সহ"
+    },
+    "description": {
+      "en": "A luxe modern design pillow chair in blue, ideal for a chic look.",
+      "bn": "লাক্স মডার্ন ডিজাইন পিলো চেয়ার নীল, একটি চটকদার চেহারার জন্য আদর্শ।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-LMDPC-BLUE",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Blue"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 299,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 249,
+    "quantity": 40,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Modern Design", "Chic Look"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a129",
+
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 259,
+    "originalPrice": 309,
+    "discount": 16,
+    "rating": 4.6,
+    "soldCount": 130,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Red",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার লাল"
+    },
+    "code": "PSC-RED",
+    "sku": "SKU-PSC-RED",
+    "short_description": {
+      "en": "Soft and comfortable red pillow chair",
+      "bn": "নরম এবং আরামদায়ক লাল পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in red adds a bold statement to your decor.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি আপনার সজ্জায় একটি সাহসী বিবৃতি যোগ করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-RED",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Red"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 309,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 259,
+    "quantity": 120,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Bold Color", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a12a",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 239,
+    "originalPrice": 289,
+    "discount": 17,
+    "rating": 1.3,
+    "soldCount": 110,
+   
+    "name": {
+      "en": "Luxe Modern Design Pillow Chair Yellow",
+      "bn": "লাক্স মডার্ন ডিজাইন পিলো চেয়ার হলুদ"
+    },
+    "code": "LMDPC-YELLOW",
+    "sku": "SKU-LMDPC-YELLOW",
+    "short_description": {
+      "en": "Modern yellow pillow chair with luxe design",
+      "bn": "আধুনিক হলুদ পিলো চেয়ার লাক্স ডিজাইন সহ"
+    },
+    "description": {
+      "en": "A luxe modern design pillow chair in yellow, brightening up your space.",
+      "bn": "লাক্স মডার্ন ডিজাইন পিলো চেয়ার হলুদ, আপনার স্পেসকে উজ্জ্বল করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-LMDPC-YELLOW",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Yellow"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 289,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 239,
+    "quantity": 110,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Bright Color", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a12b",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 269,
+    "originalPrice": 319,
+    "discount": 15,
+    "rating": 4.7,
+    "soldCount": 140,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Black",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার কালো"
+    },
+    "code": "PSC-BLACK",
+    "sku": "SKU-PSC-BLACK",
+    "short_description": {
+      "en": "Soft and comfortable black pillow chair",
+      "bn": "নরম এবং আরামদায়ক কালো পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in black offers a sleek and modern look.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি একটি স্লিক এবং আধুনিক চেহারা প্রদান করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-BLACK",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Black"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 319,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 269,
+    "quantity": 140,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Sleek Design", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a12c",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 229,
+    "originalPrice": 279,
+    "discount": 18,
+    "rating": 4.2,
+    "soldCount": 90,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Orange",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার কমলা"
+    },
+    "code": "PSC-ORANGE",
+    "sku": "SKU-PSC-ORANGE",
+    "short_description": {
+      "en": "Soft and comfortable orange pillow chair",
+      "bn": "নরম এবং আরামদায়ক কমলা পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in orange is vibrant and full of life.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি উজ্জ্বল এবং জীবন্ত।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-ORANGE",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Orange"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 279,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 229,
+    "quantity": 90,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Vibrant Color", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a12d",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 255,
+    "originalPrice": 305,
+    "discount": 16,
+    "rating": 4.4,
+    "soldCount": 100,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Purple",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার বেগুনি"
+    },
+    "code": "PSC-PURPLE",
+    "sku": "SKU-PSC-PURPLE",
+    "short_description": {
+      "en": "Soft and comfortable purple pillow chair",
+      "bn": "নরম এবং আরামদায়ক বেগুনি পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in purple offers a regal and luxurious feel.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি একটি রাজকীয় এবং বিলাসবহুল অনুভূতি প্রদান করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-PURPLE",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Purple"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 305,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 255,
+    "quantity": 100,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Regal Color", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  },
+  {
+    "_id": "64b8f7c1e4b0a1d2f8c9a12e",
+    "thumbnail": "/chair.jpg",
+    "currentPrice": 265,
+    "originalPrice": 315,
+    "discount": 16,
+    "rating": 4.5,
+    "soldCount": 125,
+   
+    "name": {
+      "en": "Premium Soft Pillow Chair Navy Blue",
+      "bn": "প্রিমিয়াম সফট পিলো চেয়ার নেভি ব্লু"
+    },
+    "code": "PSC-NAVYBLUE",
+    "sku": "SKU-PSC-NAVYBLUE",
+    "short_description": {
+      "en": "Soft and comfortable navy blue pillow chair",
+      "bn": "নরম এবং আরামদায়ক নেভি ব্লু পিলো চেয়ার"
+    },
+    "description": {
+      "en": "This premium soft pillow chair in navy blue provides a deep, rich color and luxurious comfort.",
+      "bn": "এই প্রিমিয়াম সফট পিলো চেয়ারটি একটি গভীর, সমৃদ্ধ রঙ এবং বিলাসবহুল আরাম প্রদান করে।"
+    },
+    "images": ["/chair.jpg"],
+    "qr_code": "QRCODE-PSC-NAVYBLUE",
+    "category": "chairs",
+    "brand": "Generic",
+    "section": ["living", "seating"],
+    "attributes": [
+      { "name": "color", "values": ["Navy Blue"] },
+      { "name": "material", "values": ["Fabric"] }
+    ],
+    "price": 315,
+    "discount_type": "percentage",
+    "vat": { "vat_type": "percentage", "amount": 5 },
+    "tax": { "tax_type": "percentage", "amount": 2 },
+    "final_price": 265,
+    "quantity": 125,
+    "stock": true,
+    "show_stock": true,
+    "status": true,
+    "is_approved": true,
+    "free_shipping": true,
+    "shipping_charge": 0,
+    "shipping_days": 5,
+    "cash_on_delivery": true,
+    "highlights": ["Deep Color", "Soft Fabric"],
+    "specifications": {
+      "weight": "5kg",
+      "dimensions": "80x80x90cm",
+      "washableCover": true
+    }
+  }
+]

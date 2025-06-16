@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "image": "/coupon.png",
+    "couponCode": "SAVE30",
+    "title": "20% off + free gift"
+  },
+  {
+    "id": "2",
+    "image": "/coupon.png",
+    "couponCode": "FREESHIP",
+    "title": "Free shipping on orders above $50"
+  },
+  {
+    "id": "3",
+    "image": "/coupon.png",
+    "couponCode": "WELCOME10",
+    "title": "10% off for new customers"
+  },
+  {
+    "id": "4",
+    "image": "/coupon.png",
+    "couponCode": "HOLIDAY20",
+    "title": "20% off during the holiday season"
+  },
+  {
+    "id": "5",
+    "image": "/coupon.png",
+    "couponCode": "FLASH50",
+    "title": "50% off on flash sale items"
+  },
+  {
+    "id": "6",
+    "image": "/coupon.png",
+    "couponCode": "SUMMER15",
+    "title": "15% off on summer collection"
+  },
+  {
+    "id": "7",
+    "image": "/coupon.png",
+    "couponCode": "WINTER25",
+    "title": "25% off on winter collection"
+  },
+  {
+    "id": "8",
+    "image": "/coupon.png",
+    "couponCode": "BUNDLE40",
+    "title": "40% off on bundle purchases"
+  },
+  {
+    "id": "9",
+    "image": "/coupon.png",
+    "couponCode": "NEWYEAR50",
+    "title": "50% off for New Year celebrations"
+  },
+  {
+    "id": "10",
+    "image": "/coupon.png",
+    "couponCode": "SPRING20",
+    "title": "50% off + free gift"
+  },
+  {
+    "id": "11",
+    "image": "/coupon.png",
+    "couponCode": "FALL10",
+    "title": "10% off on fall collection"
+  },
+  {
+    "id": "12",
+    "image": "/coupon.png",
+    "couponCode": "EXTRA5",
+    "title": "Extra 5% off on all items"
+  }
+]
