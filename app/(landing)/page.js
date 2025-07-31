@@ -34,27 +34,8 @@ export default async function Home() {
   const allCategories = data?.data ?.categories || []
   return (
     <div>
-      {/* <HeroSection />
-      <AdvertisementBanner />
-      <FlashSale />
-      <TopCategories categories={allCategories} />
-      <Promotion />
-      {Array.isArray(data?.data?.sections) && data?.data?.sections?.map((sectionObj, idx) => {
-        const section = sectionObj.section || {};
-        const hasMarketing = section?.marketing_link && section?.marketing_image;
-        if (hasMarketing) {
-          return (
-            <Topsells key={idx} section={sectionObj} />
-          );
-        } else {
-          return (
-            <OnlyforYou key={idx} section={sectionObj} />
-          );
-        }
-      })}
-      <TrandingEvent /> */}
-      <h3 className='text-2xl text-primary'>Home</h3>
       
+      <h3 className='text-2xl text-primary'>Home</h3>
     </div>
   )
 }

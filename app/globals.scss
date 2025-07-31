@@ -28,10 +28,10 @@ body {
   color: var(--text-color);
 }
 
-.container {
-  @apply max-w-[1320px] mx-auto;
-}
 
+.aid-container {
+  @apply max-w-[1120px] mx-auto px-4 sm:px-5 lg:px-6 xl:px-0;
+}
 .ant-card {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }

@@ -1,4 +1,4 @@
-import  React from "react"
+import React from "react"
 import { Inter } from "next/font/google"
 import "../../styles/globals.css"
 import TopBar from "../components/landing/layout/topbar"
@@ -8,8 +8,8 @@ import Footer from "../components/landing/layout/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "ShopstickPro - Online Shopping",
-  description: "Shop for summer care products and more",
+  title: "abcon",
+  description: "",
 }
 
 export default function RootLayout({
@@ -17,14 +17,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-    <body
-      className='font-roboto '
-      suppressHydrationWarning
-    >
+      <body
+        className='font-roboto '
+        suppressHydrationWarning
+      >
         {/* <TopBar />
         <Navbar /> */}
-      {children}
-      {/* <Footer /> */}
+        {children}
+        <Footer />
       </body>
     </html>
   )
