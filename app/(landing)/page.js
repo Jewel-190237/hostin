@@ -1,9 +1,14 @@
 import React from "react";
+import Hero from "../components/home/hero";
+import CardSection from "../components/home/cardsection";
+import PricingPlan from "../components/home/pricing";
 
 export default async function Home() {
   return (
     <div>
-      <h3 className="text-2xl text-primary">Home</h3>
+      <Hero />
+      <CardSection />
+      <PricingPlan />
     </div>
   );
 }
