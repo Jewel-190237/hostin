@@ -1,31 +1,17 @@
-import React from "react"
-import { Inter } from "next/font/google"
-import "../../styles/globals.css"
-import TopBar from "../components/landing/layout/topbar"
-import Navbar from "../components/landing/layout/navber"
-import Footer from "../components/landing/layout/footer"
-
-const inter = Inter({ subsets: ["latin"] })
+import React from "react";
+import "../../styles/globals.css";
 
 export const metadata = {
-  title: "abcon",
-  description: "",
-}
+  title: "Hostin",
+  description: "Hostin",
+};
 
-export default function RootLayout({
-  children,
-}) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className='font-roboto '
-        suppressHydrationWarning
-      >
-        {/* <TopBar />
-        <Navbar /> */}
+      <body className="font-roboto " suppressHydrationWarning>
         {children}
-        <Footer />
       </body>
     </html>
-  )
+  );
 }
