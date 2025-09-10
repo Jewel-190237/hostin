@@ -1,7 +1,8 @@
-"use client"
+"use client";
 
 import React, { useState } from "react";
-import { CheckCircleIcon, XCircleIcon } from '@heroicons/react/24/solid';
+// import { CheckCircleIcon, XCircleIcon } from "@heroicons/react/24/solid";
+import Image from "next/image";
 
 const App = () => {
   const [billingCycle, setBillingCycle] = useState("monthly");
@@ -17,7 +18,7 @@ const App = () => {
       yearlyPrice: "৳ 3,595",
       isPopular: false,
       features: {
-        "Features": [
+        Features: [
           { text: "10 GB NVMe Storage", check: true },
           { text: "Increased Website Speed", check: true },
           { text: "5 Domain Hosted", check: true },
@@ -27,7 +28,7 @@ const App = () => {
           { text: "Advanced Malware Scanner", check: true },
           { text: "Unlimited Bandwidth", check: true },
         ],
-        "Primary": [
+        Primary: [
           { text: "Unlimited Subdomains", check: true },
           { text: "Unlimited Emails", check: true },
           { text: "Unlimited Databases", check: true },
@@ -36,7 +37,7 @@ const App = () => {
           { text: "PHP & Laravel Support", check: true },
           { text: "Daily Backups", check: true },
         ],
-        "Server": [
+        Server: [
           { text: "1 GB Dedicated RAM", check: true },
           { text: "1 vCPU Core", check: true },
           { text: "30 Entry Processes", check: true },
@@ -44,7 +45,7 @@ const App = () => {
           { text: "MySQL Databases", check: true },
           { text: "Inode Limit: 250,000", check: true },
         ],
-        "Security": [
+        Security: [
           { text: "Advanced Malware Scanner", check: true },
           { text: "Email Authentication", check: true },
           { text: "Two Factor Authentication", check: true },
@@ -52,7 +53,7 @@ const App = () => {
           { text: "Automatic Backups", check: true },
           { text: "Free SSL Certificates", check: true },
         ],
-        "Support": [
+        Support: [
           { text: "24/7 Priority Email Support", check: true },
           { text: "30 Mins or Less Ticket Reply", check: true },
           { text: "24/7 Live Chat Support", check: true },
@@ -70,7 +71,7 @@ const App = () => {
       yearlyPrice: "৳ 5,495",
       isPopular: true,
       features: {
-        "Features": [
+        Features: [
           { text: "20 GB NVMe Storage", check: true },
           { text: "Super Fast Website Speed", check: true },
           { text: "10 Domain Hosted", check: true },
@@ -80,7 +81,7 @@ const App = () => {
           { text: "Advanced Malware Scanner", check: true },
           { text: "Unlimited Bandwidth", check: true },
         ],
-        "Primary": [
+        Primary: [
           { text: "Unlimited Subdomains", check: true },
           { text: "Unlimited Emails", check: true },
           { text: "Unlimited Databases", check: true },
@@ -90,7 +91,7 @@ const App = () => {
           { text: "Free Site Migration", check: true },
           { text: "Daily Backups", check: true },
         ],
-        "Server": [
+        Server: [
           { text: "2 GB Dedicated RAM", check: true },
           { text: "2 vCPU Cores", check: true },
           { text: "45 Entry Processes", check: true },
@@ -98,7 +99,7 @@ const App = () => {
           { text: "MySQL Databases", check: true },
           { text: "Inode Limit: 500,000", check: true },
         ],
-        "Security": [
+        Security: [
           { text: "Advanced Malware Scanner", check: true },
           { text: "Email Authentication", check: true },
           { text: "Two Factor Authentication", check: true },
@@ -106,7 +107,7 @@ const App = () => {
           { text: "Automatic Backups", check: true },
           { text: "Free SSL Certificates", check: true },
         ],
-        "Support": [
+        Support: [
           { text: "24/7 Priority Email Support", check: true },
           { text: "30 Mins or Less Ticket Reply", check: true },
           { text: "24/7 Live Chat Support", check: true },
@@ -124,7 +125,7 @@ const App = () => {
       yearlyPrice: "৳ 7,995",
       isPopular: false,
       features: {
-        "Features": [
+        Features: [
           { text: "50 GB NVMe Storage", check: true },
           { text: "Maximize Website Speed", check: true },
           { text: "Unlimited Domain Hosted", check: true },
@@ -134,7 +135,7 @@ const App = () => {
           { text: "Advanced Malware Scanner", check: true },
           { text: "Unlimited Bandwidth", check: true },
         ],
-        "Primary": [
+        Primary: [
           { text: "Unlimited Subdomains", check: true },
           { text: "Unlimited Emails", check: true },
           { text: "Unlimited Databases", check: true },
@@ -144,7 +145,7 @@ const App = () => {
           { text: "Dedicated Account Manager", check: true },
           { text: "Daily Backups", check: true },
         ],
-        "Server": [
+        Server: [
           { text: "4 GB Dedicated RAM", check: true },
           { text: "4 vCPU Cores", check: true },
           { text: "60 Entry Processes", check: true },
@@ -152,7 +153,7 @@ const App = () => {
           { text: "MySQL Databases", check: true },
           { text: "Inode Limit: 1,000,000", check: true },
         ],
-        "Security": [
+        Security: [
           { text: "Advanced Malware Scanner", check: true },
           { text: "Email Authentication", check: true },
           { text: "Two Factor Authentication", check: true },
@@ -160,7 +161,7 @@ const App = () => {
           { text: "Automatic Backups", check: true },
           { text: "Free SSL Certificates", check: true },
         ],
-        "Support": [
+        Support: [
           { text: "24/7 Priority Email Support", check: true },
           { text: "30 Mins or Less Ticket Reply", check: true },
           { text: "24/7 Live Chat Support", check: true },
@@ -197,7 +198,8 @@ const App = () => {
                   : "text-gray-600 hover:text-blue-600"
               }`}
             >
-              Yearly <span className="ml-1 text-green-300 text-xs">Save 76%</span>
+              Yearly{" "}
+              <span className="ml-1 text-green-300 text-xs">Save 76%</span>
             </button>
           </div>
         </div>
@@ -205,9 +207,9 @@ const App = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-stretch">
           {plans.map((plan, idx) => {
             const isExpanded = allExpanded;
-            const featuresToDisplay = isExpanded 
+            const featuresToDisplay = isExpanded
               ? plan.features
-              : { "Features": plan.features["Features"] };
+              : { Features: plan.features["Features"] };
 
             return (
               <div
@@ -227,12 +229,16 @@ const App = () => {
                 <div className="flex flex-col items-center mb-6">
                   <span className="text-3xl">{plan.icon}</span>
                   <h3 className="text-xl font-bold mt-2">{plan.name}</h3>
-                  <p className="text-gray-600 text-sm mt-2">{plan.description}</p>
+                  <p className="text-gray-600 text-sm mt-2">
+                    {plan.description}
+                  </p>
                 </div>
 
                 <div className="mb-4">
                   <p className="text-4xl font-extrabold text-blue-600">
-                    {billingCycle === "monthly" ? plan.monthlyPrice : plan.yearlyPrice}
+                    {billingCycle === "monthly"
+                      ? plan.monthlyPrice
+                      : plan.yearlyPrice}
                   </p>
                   <p className="text-sm font-medium text-gray-600">
                     per {billingCycle}
@@ -254,23 +260,42 @@ const App = () => {
                 </button>
 
                 <div className="w-full text-left mt-6 flex-1">
-                  {Object.entries(featuresToDisplay).map(([sectionTitle, featureList], sectionIdx) => (
-                    <div key={sectionIdx} className="mb-4">
-                      <h4 className="font-semibold mb-2">{sectionTitle}</h4>
-                      <ul className="space-y-2 text-sm text-gray-700">
-                        {featureList.map((feature, featureIdx) => (
-                          <li key={featureIdx} className="flex items-center gap-2">
-                            {feature.check ? (
-                              <CheckCircleIcon className="w-4 h-4 text-blue-500 flex-shrink-0" />
-                            ) : (
-                              <XCircleIcon className="w-4 h-4 text-gray-400 flex-shrink-0" />
-                            )}
-                            {feature.text}
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  ))}
+                  {Object.entries(featuresToDisplay).map(
+                    ([sectionTitle, featureList], sectionIdx) => (
+                      <div key={sectionIdx} className="mb-4">
+                        <h4 className="font-semibold mb-2">{sectionTitle}</h4>
+                        <ul className="space-y-2 text-sm text-gray-700">
+                          {featureList.map((feature, featureIdx) => (
+                            <li
+                              key={featureIdx}
+                              className="flex items-center gap-2"
+                            >
+                              {feature.check ? (
+                                // <CheckCircleIcon className="w-4 h-4 text-blue-500 flex-shrink-0" />
+                                <Image
+                                  src="/pricing/check.png"
+                                  width={1000}
+                                  height={1000}
+                                  alt="check"
+                                  className="w-5 h-5"
+                                />
+                              ) : (
+                                // <XCircleIcon className="w-4 h-4 text-gray-400 flex-shrink-0" />
+                                <Image
+                                  src="/pricing/cross.png"
+                                  width={1000}
+                                  height={1000}
+                                  alt="check"
+                                  className="w-5 h-5"
+                                />
+                              )}
+                              {feature.text}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )
+                  )}
                 </div>
 
                 <div className="w-full flex justify-center mt-auto pt-4">
